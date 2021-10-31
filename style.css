@@ -1,0 +1,118 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+header{
+  height: 50px;
+  background-color: white;
+}
+
+.header-container{
+  text-align: center;
+  line-height: 50px;
+}
+
+.header-container a{
+  display: inline-block;
+  padding: 0px 30px 0px 30px;
+  font-size: 15px;
+  color: black;
+
+}
+
+.header-list{
+  font-family: 'Amatic SC', cursive;
+}
+
+.top-title {
+  margin: 100px 0px 0px 200px;
+  font-size: 20px;
+  letter-spacing: 10px;
+  width: 200px;
+}
+
+.profile-images{
+  margin: 100px 0px 0px 200px;
+  display: flex;
+}
+
+.profile-images li{
+  list-style: none;
+  margin: 35px;
+  font-size: 12px;
+  letter-spacing: 5px;
+}
+
+.profile-text{
+  margin: 50px 0px 0px 439px;
+  font-size: 12px;
+  letter-spacing: 5px;
+  line-height: 50px;
+}
+
+.second-container{
+  margin: 300px 0px 0px 200px;
+}
+
+.second-title{
+  letter-spacing: 5px;
+  background-color: rgb(218, 240, 241);
+}
+
+.sc-text{
+  margin-top: 30px;
+  font-size: 12px;
+  letter-spacing: 5px;
+  line-height: 50px;
+}
+
+.third-container{
+  margin: 300px 0px 0px 200px;
+}
+
+.third-title{
+  letter-spacing: 5px;
+  background-color: rgb(218, 240, 241);
+}
+
+.career-list{
+  margin-top: 30px;
+  letter-spacing: 5px;
+  line-height: 50px;
+}
+
+.career-list li{
+  margin-left: 20px;
+}
+
+.work-list{
+  margin-top: 30px;
+  letter-spacing: 5px;
+  line-height: 50px;
+}
+
+.work-list li{
+  margin-left: 20px;
+}
+
+footer{
+  height: 200px;
+  background-color: white;
+  line-height: 200px;
+  font-size: 15px;
+  text-align: center;
+}
+
+footer a{
+  color: black;
+  padding: 0px 30px 0px 30px;
+  font-family: 'Amatic SC', cursive;
+}
+
+
+
+
+
+
+
